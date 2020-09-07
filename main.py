@@ -8,7 +8,7 @@ face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 eye_cascade = cv2.CascadeClassifier('haarcascade_eye.xml')
 
 # capture frames from a camera
-cap = cv2.VideoCapture("C:/Users/Rakshith Rai/PycharmProjects/face detection/Screenshot/test_1.mkv")
+cap = cv2.VideoCapture("Screenshot/test_1.mkv")
 
 # loop runs if capturing has been initialized.
 while 1:
