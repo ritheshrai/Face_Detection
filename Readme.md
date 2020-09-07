@@ -7,7 +7,7 @@ This is a Basic face detection code. this code will take the video stream from y
 
 Xml file is not trained by me. these files are given in github a/c of OpenCV .
 
-Its a fun Hobby project , tried out of interest and curiosity. this was a good project to understand a little more into face detection concept well if you want to use this code you can use Enjoy 
+Its a fun Hobby project , tried out of interest and curiosity. this was a good project to understand a little more into face detection concept well if you want to use this code you can use Enjoy
 
 >Camera
 
@@ -24,7 +24,7 @@ want to use a video then replace absolute_address with file address
 cap = cv2.VideoCapture("absolute_address")
 ```
 
---- 
+---
 **Files needed for this to work** :relaxed:
 >[haarcascade_frontalface_default](https://github.com/Itseez/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
 
@@ -45,13 +45,10 @@ or
 
 Enjoy coding :blush:
 
->screen shots of project 
+>screen shots of project
  
  Used short video from [YouTube](https://youtu.be/CQhxHr2-XSc)
 ![test_1](Screenshot/test_1ss.png)
 >Live Camera
 
-live
-![test_1](Screenshot/camera_use ss.png)
-
-
+![test_1](Screenshot/camera_use_ss.png)
